@@ -40,29 +40,6 @@ while i<100:
                                                 print bb
                                                 ser.write(bb)
                                                 time.sleep(1)
-
-                                               
-
-                                              
-                                                
-                                
-                                
-
-
-
-
-                                
-
         
 tn.close();
 outfptr.close();
-
-
-
-
-        
-
-
-
-
-
